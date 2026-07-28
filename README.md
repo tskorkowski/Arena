@@ -3,6 +3,7 @@
 Repo to store exercises from ARENA tutorial
 
 Check them out, interesting material on AI safety:
+
 main: 
 
 https://www.arena.education/
